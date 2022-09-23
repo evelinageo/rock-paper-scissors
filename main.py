@@ -57,3 +57,4 @@ else:
     print("It's a draw!")
   elif computer==0 and user==2:
     print("You lost.")
+#the end
